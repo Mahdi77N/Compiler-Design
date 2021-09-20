@@ -1,0 +1,62 @@
+
+int aaa(int yyy, int zzz , int ccc , int jjj)
+{
+int bb$
+int ddd$
+bb = ddd + 1$
+
+}
+
+
+
+int ccdd(int a)
+{
+int aaaa  $
+aaaa = 5$
+}
+
+
+
+int aaaa()
+{}
+
+
+
+
+void main()
+{
+
+aaa(1,2,3,4)$
+
+char test$
+test = 'hi'$
+int a$
+int HB$
+HB = 3$
+int b$
+a =5$
+b=6$
+int d$
+
+d = a - b$
+
+
+
+a = a+10$
+
+
+while( a > 0 )
+{
+a = a - 1$
+
+
+}
+
+
+int c $
+c = 10 $
+c = a+b$
+
+c = d$
+
+}
